@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: af6m24rk0-go-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/af6m24rk0-go
